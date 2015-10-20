@@ -3,7 +3,7 @@ A blank theme for [OctoberCMS](https://octobercms.com/) with [Material Design Li
 
 
 ## Installation
-`$ php artisan theme:install martin.blank-mdl <theme>`
+`$ php artisan theme:install martin.blank-material-design-lite <theme>`
 
 Replace `<theme>` with the name of your theme.
 
