@@ -28,5 +28,5 @@ Open template file and replace the next line with the new css:
 
 Alternatively, you can point to the generated CSS file hosted on Material Design Lite CDN:
 ```html
- <link rel="stylesheet" href="https://code.getmdl.io/1.1.3/material.teal-red.min.css" />
+ <link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.teal-red.min.css" />
 ```
